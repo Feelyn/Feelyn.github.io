@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Feelyn2022.github.io</id>
+    <id>https://Feelyn.github.io</id>
     <title>Feelyn</title>
-    <updated>2022-01-05T04:36:28.729Z</updated>
+    <updated>2022-01-05T05:04:37.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Feelyn2022.github.io"/>
-    <link rel="self" href="https://Feelyn2022.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Feelyn.github.io"/>
+    <link rel="self" href="https://Feelyn.github.io/atom.xml"/>
     <subtitle>画画的小学生</subtitle>
-    <logo>https://Feelyn2022.github.io/images/avatar.png</logo>
-    <icon>https://Feelyn2022.github.io/favicon.ico</icon>
+    <logo>https://Feelyn.github.io/images/avatar.png</logo>
+    <icon>https://Feelyn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Feelyn</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://Feelyn2022.github.io/post/test/</id>
-        <link href="https://Feelyn2022.github.io/post/test/">
+        <id>https://Feelyn.github.io/post/test/</id>
+        <link href="https://Feelyn.github.io/post/test/">
         </link>
         <updated>2022-01-05T04:26:04.000Z</updated>
         <content type="html"><![CDATA[<p>111</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Feelyn2022.github.io/post/hello-gridea/</id>
-        <link href="https://Feelyn2022.github.io/post/hello-gridea/">
+        <id>https://Feelyn.github.io/post/hello-gridea/</id>
+        <link href="https://Feelyn.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
