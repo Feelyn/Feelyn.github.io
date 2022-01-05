@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Feelyn2022.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-01-05T04:28:51.242Z</updated>
+    <title>Feelyn</title>
+    <updated>2022-01-05T04:36:04.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Feelyn2022.github.io"/>
     <link rel="self" href="https://Feelyn2022.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>画画的小学生</subtitle>
     <logo>https://Feelyn2022.github.io/images/avatar.png</logo>
     <icon>https://Feelyn2022.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, Feelyn</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://Feelyn2022.github.io/post/test/</id>
